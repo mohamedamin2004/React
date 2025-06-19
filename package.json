@@ -2,7 +2,7 @@
   "name": "app1",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://mohamedamin2004.github.io/Route",
+  "homepage": "https://mohamedamin2004.github.io/React",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
